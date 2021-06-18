@@ -19,3 +19,4 @@
 3. Research tags
 4. Research Amazon sellers
 5. Convert for digital to Word
+6. embed videos instead of QR codes for ebook
